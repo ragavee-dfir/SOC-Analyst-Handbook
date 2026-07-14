@@ -77,7 +77,7 @@ Click:
 
 ### Screenshot
 
-![Process Monitor Filter](images/procmon_filter_window.png)
+![Process Monitor Filter](procmon_filter_window.png)
 
 ---
 
@@ -106,7 +106,7 @@ The Event Properties window displays:
 
 ### Screenshot
 
-![Event Properties](images/procmon_event_properties.png)
+![Event Properties](procmon_event_properties.png)
 
 ---
 
